@@ -50,3 +50,9 @@ Always prioritize creating prompts that leverage Claude 4's enhanced instruction
 **Claude 4 Best Practices:**
 - `.github/docs/anthropic/claude-4-prompt-engineering.md`
 - `.github/docs/anthropic/anthropic-prompt-engineering-overview.md`
+- `.github/docs/anthropic/be-clear-direct-and-detailed.md`
+- `.github/docs/anthropic/chain-complex-prompts.md`
+- `.github/docs/anthropic/giving-claude-a-role-with-a-system-prompt.md`
+- `.github/docs/anthropic/let-claude-think.md`
+- `.github/docs/anthropic/use-examples.md`
+- `.github/docs/anthropic/use-xml-tags.md`
